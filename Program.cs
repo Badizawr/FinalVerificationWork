@@ -8,7 +8,6 @@
 // ["1234", "1567", "-2", "computer science"] -> ["-2"]
 // ["Russia", "Denmark", "Kazan"] -> []
 
-
 void CharacterLength(string[] array1, string[] array2)
 {
     int count = 0;
